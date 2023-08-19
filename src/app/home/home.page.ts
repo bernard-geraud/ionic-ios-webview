@@ -14,7 +14,7 @@ export class HomePage {
 
   openInAppBrowser() {
     const browser = this.iab.create(
-      'https://ionicframework.com/',
+      'https://jcprestigefe.hosting180258.ae8ac.netcup.net',
       '_blank',
       {
         location: 'no',
